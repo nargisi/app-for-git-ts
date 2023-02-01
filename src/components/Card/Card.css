@@ -1,0 +1,9 @@
+.card__picture {
+    max-width: 280px;
+    width: 100%;
+    border-radius: 50%;
+    margin-bottom: 29px;
+    margin-top: 15px;
+}
+
+
